@@ -1,0 +1,13 @@
+pub mod a_2_stars;
+pub mod b_m_stars;
+pub mod c_square;
+pub mod d_hollow_square;
+pub mod e_hollow_rectangle;
+pub mod f_pyramid;
+pub mod g_inverse_pyramid;
+pub mod h_numbered_triangle;
+pub mod i_binary_triangle;
+pub mod j_vertical_triangle;
+pub mod k_hollow_vertical_triangle;
+pub mod l_triangle;
+pub mod m_hollow_triangle;
