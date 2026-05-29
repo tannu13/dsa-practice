@@ -11,3 +11,6 @@ pub mod j_vertical_triangle;
 pub mod k_hollow_vertical_triangle;
 pub mod l_triangle;
 pub mod m_hollow_triangle;
+pub mod n_inverted_hollow_triangle;
+pub mod o_diamond;
+pub mod p_hollow_diamond;
