@@ -14,3 +14,6 @@ pub mod m_hollow_triangle;
 pub mod n_inverted_hollow_triangle;
 pub mod o_diamond;
 pub mod p_hollow_diamond;
+pub mod q_crown;
+pub mod r_butterfly;
+pub mod s_inverted_diamond;
