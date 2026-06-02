@@ -1,0 +1,9 @@
+pub mod a_hello_functions;
+pub mod b_print_factors_1;
+pub mod c_print_factors_2;
+pub mod d_check_prime;
+pub mod e_factorial;
+pub mod f_binomial_coefficient;
+pub mod g_print_primes_upto_n;
+pub mod h_count_zeros;
+pub mod i_find_hcf;
