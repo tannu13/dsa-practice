@@ -4,3 +4,7 @@ pub mod c_min_element_n_position;
 pub mod d_max_element_n_position;
 pub mod e_search_elem_in_array;
 pub mod f_count_occurrences;
+pub mod g_is_array_sorted;
+pub mod h_sort_01;
+pub mod i_reverse;
+pub mod j_arrange_nums;
